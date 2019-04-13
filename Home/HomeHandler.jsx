@@ -4,7 +4,7 @@ import {render} from 'react-dom';
 import NavBar from './NavBar';
 import Header from './Header';
 import Footer from './Footer';
-import Content from "./Content";
+import Content from "./HomeContent";
 
 export default class HomeHandler extends Component{
     render(){

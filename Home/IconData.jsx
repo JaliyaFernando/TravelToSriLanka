@@ -18,7 +18,7 @@ const iconData = [
     },
     {
         id:2,
-        link:"supermarket.html",
+        link:"supermarkets.html",
         image:SuperMarketsIcon,
         name:"Super Markets"
     },
