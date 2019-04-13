@@ -117,7 +117,7 @@ parcelRequire = (function (modules, cache, entry, globalName) {
   }
 
   return newRequire;
-})({"../node_modules/object-assign/index.js":[function(require,module,exports) {
+})({"node_modules/object-assign/index.js":[function(require,module,exports) {
 /*
 object-assign
 (c) Sindre Sorhus
@@ -213,7 +213,7 @@ module.exports = shouldUseNative() ? Object.assign : function (target, source) {
 
   return to;
 };
-},{}],"../node_modules/prop-types/lib/ReactPropTypesSecret.js":[function(require,module,exports) {
+},{}],"node_modules/prop-types/lib/ReactPropTypesSecret.js":[function(require,module,exports) {
 /**
  * Copyright (c) 2013-present, Facebook, Inc.
  *
@@ -227,7 +227,7 @@ var ReactPropTypesSecret = 'SECRET_DO_NOT_PASS_THIS_OR_YOU_WILL_BE_FIRED';
 
 module.exports = ReactPropTypesSecret;
 
-},{}],"../node_modules/prop-types/checkPropTypes.js":[function(require,module,exports) {
+},{}],"node_modules/prop-types/checkPropTypes.js":[function(require,module,exports) {
 /**
  * Copyright (c) 2013-present, Facebook, Inc.
  *
@@ -323,7 +323,7 @@ checkPropTypes.resetWarningCache = function () {
 };
 
 module.exports = checkPropTypes;
-},{"./lib/ReactPropTypesSecret":"../node_modules/prop-types/lib/ReactPropTypesSecret.js"}],"../node_modules/react/cjs/react.development.js":[function(require,module,exports) {
+},{"./lib/ReactPropTypesSecret":"node_modules/prop-types/lib/ReactPropTypesSecret.js"}],"node_modules/react/cjs/react.development.js":[function(require,module,exports) {
 /** @license React v16.8.6
  * react.development.js
  *
@@ -2245,7 +2245,7 @@ if ("development" !== "production") {
     module.exports = react;
   })();
 }
-},{"object-assign":"../node_modules/object-assign/index.js","prop-types/checkPropTypes":"../node_modules/prop-types/checkPropTypes.js"}],"../node_modules/react/index.js":[function(require,module,exports) {
+},{"object-assign":"node_modules/object-assign/index.js","prop-types/checkPropTypes":"node_modules/prop-types/checkPropTypes.js"}],"node_modules/react/index.js":[function(require,module,exports) {
 'use strict';
 
 if ("development" === 'production') {
@@ -2253,7 +2253,7 @@ if ("development" === 'production') {
 } else {
   module.exports = require('./cjs/react.development.js');
 }
-},{"./cjs/react.development.js":"../node_modules/react/cjs/react.development.js"}],"../node_modules/scheduler/cjs/scheduler.development.js":[function(require,module,exports) {
+},{"./cjs/react.development.js":"node_modules/react/cjs/react.development.js"}],"node_modules/scheduler/cjs/scheduler.development.js":[function(require,module,exports) {
 var global = arguments[3];
 /** @license React v0.13.6
  * scheduler.development.js
@@ -2966,7 +2966,7 @@ if ("development" !== "production") {
     exports.unstable_getFirstCallbackNode = unstable_getFirstCallbackNode;
   })();
 }
-},{}],"../node_modules/scheduler/index.js":[function(require,module,exports) {
+},{}],"node_modules/scheduler/index.js":[function(require,module,exports) {
 'use strict';
 
 if ("development" === 'production') {
@@ -2974,7 +2974,7 @@ if ("development" === 'production') {
 } else {
   module.exports = require('./cjs/scheduler.development.js');
 }
-},{"./cjs/scheduler.development.js":"../node_modules/scheduler/cjs/scheduler.development.js"}],"../node_modules/scheduler/cjs/scheduler-tracing.development.js":[function(require,module,exports) {
+},{"./cjs/scheduler.development.js":"node_modules/scheduler/cjs/scheduler.development.js"}],"node_modules/scheduler/cjs/scheduler-tracing.development.js":[function(require,module,exports) {
 /** @license React v0.13.6
  * scheduler-tracing.development.js
  *
@@ -3362,7 +3362,7 @@ if ("development" !== "production") {
     exports.unstable_unsubscribe = unstable_unsubscribe;
   })();
 }
-},{}],"../node_modules/scheduler/tracing.js":[function(require,module,exports) {
+},{}],"node_modules/scheduler/tracing.js":[function(require,module,exports) {
 'use strict';
 
 if ("development" === 'production') {
@@ -3370,7 +3370,7 @@ if ("development" === 'production') {
 } else {
   module.exports = require('./cjs/scheduler-tracing.development.js');
 }
-},{"./cjs/scheduler-tracing.development.js":"../node_modules/scheduler/cjs/scheduler-tracing.development.js"}],"../node_modules/react-dom/cjs/react-dom.development.js":[function(require,module,exports) {
+},{"./cjs/scheduler-tracing.development.js":"node_modules/scheduler/cjs/scheduler-tracing.development.js"}],"node_modules/react-dom/cjs/react-dom.development.js":[function(require,module,exports) {
 /** @license React v16.8.6
  * react-dom.development.js
  *
@@ -25710,7 +25710,7 @@ if ("development" !== "production") {
     module.exports = reactDom;
   })();
 }
-},{"react":"../node_modules/react/index.js","object-assign":"../node_modules/object-assign/index.js","prop-types/checkPropTypes":"../node_modules/prop-types/checkPropTypes.js","scheduler":"../node_modules/scheduler/index.js","scheduler/tracing":"../node_modules/scheduler/tracing.js"}],"../node_modules/react-dom/index.js":[function(require,module,exports) {
+},{"react":"node_modules/react/index.js","object-assign":"node_modules/object-assign/index.js","prop-types/checkPropTypes":"node_modules/prop-types/checkPropTypes.js","scheduler":"node_modules/scheduler/index.js","scheduler/tracing":"node_modules/scheduler/tracing.js"}],"node_modules/react-dom/index.js":[function(require,module,exports) {
 'use strict';
 
 function checkDCE() {
@@ -25748,7 +25748,7 @@ if ("development" === 'production') {
 } else {
   module.exports = require('./cjs/react-dom.development.js');
 }
-},{"./cjs/react-dom.development.js":"../node_modules/react-dom/cjs/react-dom.development.js"}],"NavBar.jsx":[function(require,module,exports) {
+},{"./cjs/react-dom.development.js":"node_modules/react-dom/cjs/react-dom.development.js"}],"NavBar.jsx":[function(require,module,exports) {
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -25812,7 +25812,7 @@ function (_Component) {
 }(_react.Component);
 
 exports.default = NavBar;
-},{"react":"../node_modules/react/index.js"}],"logo.png":[function(require,module,exports) {
+},{"react":"node_modules/react/index.js"}],"logo.png":[function(require,module,exports) {
 module.exports = "/logo.de01bb0e.png";
 },{}],"MAP.jpg":[function(require,module,exports) {
 module.exports = "/MAP.69b18fc6.jpg";
@@ -25870,7 +25870,7 @@ function (_Component) {
   _createClass(Header, [{
     key: "render",
     value: function render() {
-      return _react.default.createElement("table", null, _react.default.createElement("tr", null, _react.default.createElement("td", {
+      return _react.default.createElement("table", null, _react.default.createElement("tbody", null, _react.default.createElement("tr", null, _react.default.createElement("td", {
         className: "logo"
       }, _react.default.createElement("img", {
         src: _logo.default,
@@ -25891,7 +25891,7 @@ function (_Component) {
       }, "Sign Up "), _react.default.createElement("img", {
         src: _cart.default,
         align: "center"
-      })))));
+      }))))));
     }
   }]);
 
@@ -25899,7 +25899,7 @@ function (_Component) {
 }(_react.Component);
 
 exports.default = Header;
-},{"react":"../node_modules/react/index.js","./logo.png":"logo.png","./MAP.jpg":"MAP.jpg","./cart.png":"cart.png"}],"Footer.jsx":[function(require,module,exports) {
+},{"react":"node_modules/react/index.js","./logo.png":"logo.png","./MAP.jpg":"MAP.jpg","./cart.png":"cart.png"}],"Footer.jsx":[function(require,module,exports) {
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -25953,7 +25953,240 @@ function (_Component) {
 }(_react.Component);
 
 exports.default = Footer;
-},{"react":"../node_modules/react/index.js"}],"HomeHandler.jsx":[function(require,module,exports) {
+},{"react":"node_modules/react/index.js"}],"MenuIcon.jsx":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+
+var _react = _interopRequireWildcard(require("react"));
+
+function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) { var desc = Object.defineProperty && Object.getOwnPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : {}; if (desc.get || desc.set) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } } newObj.default = obj; return newObj; } }
+
+function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+function _defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } }
+
+function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _defineProperties(Constructor.prototype, protoProps); if (staticProps) _defineProperties(Constructor, staticProps); return Constructor; }
+
+function _possibleConstructorReturn(self, call) { if (call && (_typeof(call) === "object" || typeof call === "function")) { return call; } return _assertThisInitialized(self); }
+
+function _assertThisInitialized(self) { if (self === void 0) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return self; }
+
+function _getPrototypeOf(o) { _getPrototypeOf = Object.setPrototypeOf ? Object.getPrototypeOf : function _getPrototypeOf(o) { return o.__proto__ || Object.getPrototypeOf(o); }; return _getPrototypeOf(o); }
+
+function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function"); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, writable: true, configurable: true } }); if (superClass) _setPrototypeOf(subClass, superClass); }
+
+function _setPrototypeOf(o, p) { _setPrototypeOf = Object.setPrototypeOf || function _setPrototypeOf(o, p) { o.__proto__ = p; return o; }; return _setPrototypeOf(o, p); }
+
+var MenuIcon =
+/*#__PURE__*/
+function (_Component) {
+  _inherits(MenuIcon, _Component);
+
+  function MenuIcon() {
+    _classCallCheck(this, MenuIcon);
+
+    return _possibleConstructorReturn(this, _getPrototypeOf(MenuIcon).apply(this, arguments));
+  }
+
+  _createClass(MenuIcon, [{
+    key: "render",
+    value: function render() {
+      return _react.default.createElement("div", {
+        className: "content"
+      }, _react.default.createElement("a", {
+        target: "_blank",
+        href: this.props.link
+      }, _react.default.createElement("img", {
+        src: this.props.image,
+        alt: this.props.name
+      }), _react.default.createElement("div", {
+        className: "desc"
+      }, this.props.name)));
+    }
+  }]);
+
+  return MenuIcon;
+}(_react.Component);
+
+exports.default = MenuIcon;
+},{"react":"node_modules/react/index.js"}],"hotel.png":[function(require,module,exports) {
+module.exports = "/hotel.c3c0c6f8.png";
+},{}],"supermarket.png":[function(require,module,exports) {
+module.exports = "/supermarket.545bf452.png";
+},{}],"liquor.png":[function(require,module,exports) {
+module.exports = "/liquor.f8e6b5cd.png";
+},{}],"cloths.jpg":[function(require,module,exports) {
+module.exports = "/cloths.5bde1432.jpg";
+},{}],"gift.png":[function(require,module,exports) {
+module.exports = "/gift.7b03ed1e.png";
+},{}],"rest.png":[function(require,module,exports) {
+module.exports = "/rest.fa5cd8ca.png";
+},{}],"spa.jpg":[function(require,module,exports) {
+module.exports = "/spa.ac861dc5.jpg";
+},{}],"guid.png":[function(require,module,exports) {
+module.exports = "/guid.31baf6b7.png";
+},{}],"adventure.png":[function(require,module,exports) {
+module.exports = "/adventure.c46822e6.png";
+},{}],"taxi.png":[function(require,module,exports) {
+module.exports = "/taxi.9a9bf39d.png";
+},{}],"IconData.jsx":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+
+var _hotel = _interopRequireDefault(require("./hotel.png"));
+
+var _supermarket = _interopRequireDefault(require("./supermarket.png"));
+
+var _liquor = _interopRequireDefault(require("./liquor.png"));
+
+var _cloths = _interopRequireDefault(require("./cloths.jpg"));
+
+var _gift = _interopRequireDefault(require("./gift.png"));
+
+var _rest = _interopRequireDefault(require("./rest.png"));
+
+var _spa = _interopRequireDefault(require("./spa.jpg"));
+
+var _guid = _interopRequireDefault(require("./guid.png"));
+
+var _adventure = _interopRequireDefault(require("./adventure.png"));
+
+var _taxi = _interopRequireDefault(require("./taxi.png"));
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+var iconData = [{
+  id: 1,
+  link: "hotels.html",
+  image: _hotel.default,
+  name: "Hotels"
+}, {
+  id: 2,
+  link: "supermarket.html",
+  image: _supermarket.default,
+  name: "Super Markets"
+}, {
+  id: 3,
+  link: "hotels.html",
+  image: _liquor.default,
+  name: "Liquor & Spirits"
+}, {
+  id: 4,
+  link: "hotels.html",
+  image: _cloths.default,
+  name: "Cloths Shops"
+}, {
+  id: 5,
+  link: "hotels.html",
+  image: _gift.default,
+  name: "Gift Shops"
+}, {
+  id: 6,
+  link: "hotels.html",
+  image: _rest.default,
+  name: "Restaurants"
+}, {
+  id: 7,
+  link: "hotels.html",
+  image: _spa.default,
+  name: "Spa & Wellness Centers"
+}, {
+  id: 8,
+  link: "hotels.html",
+  image: _guid.default,
+  name: "Tourist Guides"
+}, {
+  id: 9,
+  link: "hotels.html",
+  image: _adventure.default,
+  name: "Adventure Centers"
+}, {
+  id: 10,
+  link: "hotels.html",
+  image: _taxi.default,
+  name: "Transport"
+}];
+var _default = iconData;
+exports.default = _default;
+},{"./hotel.png":"hotel.png","./supermarket.png":"supermarket.png","./liquor.png":"liquor.png","./cloths.jpg":"cloths.jpg","./gift.png":"gift.png","./rest.png":"rest.png","./spa.jpg":"spa.jpg","./guid.png":"guid.png","./adventure.png":"adventure.png","./taxi.png":"taxi.png"}],"Content.jsx":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = void 0;
+
+var _react = _interopRequireWildcard(require("react"));
+
+var _MenuIcon = _interopRequireDefault(require("./MenuIcon"));
+
+var _IconData = _interopRequireDefault(require("./IconData"));
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) { var desc = Object.defineProperty && Object.getOwnPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : {}; if (desc.get || desc.set) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } } newObj.default = obj; return newObj; } }
+
+function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+function _defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } }
+
+function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _defineProperties(Constructor.prototype, protoProps); if (staticProps) _defineProperties(Constructor, staticProps); return Constructor; }
+
+function _possibleConstructorReturn(self, call) { if (call && (_typeof(call) === "object" || typeof call === "function")) { return call; } return _assertThisInitialized(self); }
+
+function _assertThisInitialized(self) { if (self === void 0) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return self; }
+
+function _getPrototypeOf(o) { _getPrototypeOf = Object.setPrototypeOf ? Object.getPrototypeOf : function _getPrototypeOf(o) { return o.__proto__ || Object.getPrototypeOf(o); }; return _getPrototypeOf(o); }
+
+function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function"); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, writable: true, configurable: true } }); if (superClass) _setPrototypeOf(subClass, superClass); }
+
+function _setPrototypeOf(o, p) { _setPrototypeOf = Object.setPrototypeOf || function _setPrototypeOf(o, p) { o.__proto__ = p; return o; }; return _setPrototypeOf(o, p); }
+
+var Content =
+/*#__PURE__*/
+function (_Component) {
+  _inherits(Content, _Component);
+
+  function Content() {
+    _classCallCheck(this, Content);
+
+    return _possibleConstructorReturn(this, _getPrototypeOf(Content).apply(this, arguments));
+  }
+
+  _createClass(Content, [{
+    key: "render",
+    value: function render() {
+      var icons = _IconData.default.map(function (icon) {
+        return _react.default.createElement(_MenuIcon.default, {
+          key: icon.id,
+          link: icon.link,
+          image: icon.image,
+          name: icon.name
+        });
+      });
+
+      console.log(icons);
+      return _react.default.createElement("div", null, icons);
+    }
+  }]);
+
+  return Content;
+}(_react.Component);
+
+exports.default = Content;
+},{"react":"node_modules/react/index.js","./MenuIcon":"MenuIcon.jsx","./IconData":"IconData.jsx"}],"HomeHandler.jsx":[function(require,module,exports) {
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
@@ -25970,6 +26203,8 @@ var _NavBar = _interopRequireDefault(require("./NavBar"));
 var _Header = _interopRequireDefault(require("./Header"));
 
 var _Footer = _interopRequireDefault(require("./Footer"));
+
+var _Content = _interopRequireDefault(require("./Content"));
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -26007,7 +26242,11 @@ function (_Component) {
   _createClass(HomeHandler, [{
     key: "render",
     value: function render() {
-      return _react.default.createElement("div", null, _react.default.createElement(_Header.default, null), _react.default.createElement(_NavBar.default, null), _react.default.createElement(_Footer.default, null));
+      return _react.default.createElement("div", null, _react.default.createElement("table", null, _react.default.createElement("tbody", null, _react.default.createElement("tr", null, _react.default.createElement("td", null, _react.default.createElement(_Header.default, null))), _react.default.createElement("tr", null, _react.default.createElement("td", null, _react.default.createElement(_NavBar.default, null))), _react.default.createElement("tr", null, _react.default.createElement("td", {
+        align: "center"
+      }, _react.default.createElement("h1", null, "Ayubowan"))), _react.default.createElement("tr", null, _react.default.createElement("td", {
+        align: "center"
+      }, _react.default.createElement(_Content.default, null))), _react.default.createElement("tr", null, _react.default.createElement("td", null, _react.default.createElement(_Footer.default, null))))));
     }
   }]);
 
@@ -26015,7 +26254,7 @@ function (_Component) {
 }(_react.Component);
 
 exports.default = HomeHandler;
-},{"react":"../node_modules/react/index.js","react-dom":"../node_modules/react-dom/index.js","./NavBar":"NavBar.jsx","./Header":"Header.jsx","./Footer":"Footer.jsx"}],"home.jsx":[function(require,module,exports) {
+},{"react":"node_modules/react/index.js","react-dom":"node_modules/react-dom/index.js","./NavBar":"NavBar.jsx","./Header":"Header.jsx","./Footer":"Footer.jsx","./Content":"Content.jsx"}],"Home/home.jsx":[function(require,module,exports) {
 "use strict";
 
 var _react = _interopRequireWildcard(require("react"));
@@ -26029,7 +26268,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) { var desc = Object.defineProperty && Object.getOwnPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : {}; if (desc.get || desc.set) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } } newObj.default = obj; return newObj; } }
 
 (0, _reactDom.render)(_react.default.createElement(_HomeHandler.default, null), document.getElementById('content'));
-},{"react":"../node_modules/react/index.js","react-dom":"../node_modules/react-dom/index.js","./HomeHandler":"HomeHandler.jsx"}],"../node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
+},{"react":"node_modules/react/index.js","react-dom":"node_modules/react-dom/index.js","./HomeHandler":"HomeHandler.jsx"}],"../node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 var OldModule = module.bundle.Module;
@@ -26057,7 +26296,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "55548" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "60459" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
@@ -26232,5 +26471,5 @@ function hmrAcceptRun(bundle, id) {
     return true;
   }
 }
-},{}]},{},["../node_modules/parcel-bundler/src/builtins/hmr-runtime.js","home.jsx"], null)
+},{}]},{},["../node_modules/parcel-bundler/src/builtins/hmr-runtime.js","Home/home.jsx"], null)
 //# sourceMappingURL=/home.5ec9dde6.js.map

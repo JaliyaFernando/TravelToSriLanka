@@ -2,34 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2419757c-f07d-4d9e-9884-f0d425052df0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Home/Footer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home/HomeHandler.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home/MAP.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home/NavBar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home/cart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home/home.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Home/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home/Content.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home/IconData.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home/MenuIcon.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home/adventure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home/cloths.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home/gift.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home/guid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home/hotel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home/liquor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home/rest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home/spa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home/supermarket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Home/taxi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/14/b58b7df58cc5de82c4ff4fbba7a456.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/14/b58b7df58cc5de82c4ff4fbba7a456.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/20/715ca94d7671ce8f32c15f2b9a8a8f.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/20/715ca94d7671ce8f32c15f2b9a8a8f.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/2a/b7a826935d128369b85dc644f8fefb.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/2a/b7a826935d128369b85dc644f8fefb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/48/330be8c1c52b3dee832a2eae02c966.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/48/330be8c1c52b3dee832a2eae02c966.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/4c/a7039170bdc00a810f74e6c8d1191b.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/4c/a7039170bdc00a810f74e6c8d1191b.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/5b/195233a87d624aba403ab22c8abd5f.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/5b/195233a87d624aba403ab22c8abd5f.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/69/542507e2e821f052db45919f3b87f7.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/69/542507e2e821f052db45919f3b87f7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/84/d3b9f0528f98fb83654ff71c8fd0b8.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/84/d3b9f0528f98fb83654ff71c8fd0b8.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/87/b1e09b05f550730f7143085e408e38.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/87/b1e09b05f550730f7143085e408e38.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/8e/5a8903de83c43eb31e75bd7a7b53fc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/8e/5a8903de83c43eb31e75bd7a7b53fc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/8f/7ab7054094c45dc2bb60c626837129.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/8f/7ab7054094c45dc2bb60c626837129.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/90/4b0ad45d7fbac1b637e3608badc6de.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/90/4b0ad45d7fbac1b637e3608badc6de.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/90/fefc368b167bef7ef9c75ebc4407ab.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/90/fefc368b167bef7ef9c75ebc4407ab.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/96/6ebfb68dc14a56f8ea8e1977f6c25e.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/96/6ebfb68dc14a56f8ea8e1977f6c25e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/a2/e17d97ef7df4ff85d2642de66cb064.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/a2/e17d97ef7df4ff85d2642de66cb064.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/a5/8905ef1b8f596da2f691084f5123a6.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/a5/8905ef1b8f596da2f691084f5123a6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/ad/c75e07726f8b79e9bafe044f7f29a7.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/ad/c75e07726f8b79e9bafe044f7f29a7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/ba/567bbf3573a425f8915025156bd904.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/ba/567bbf3573a425f8915025156bd904.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/c1/3f9d28c505bf5a352c750190f5e8ab.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/c1/3f9d28c505bf5a352c750190f5e8ab.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/c2/eceeae5bc60782a2615b23b3bf8f71.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/c2/eceeae5bc60782a2615b23b3bf8f71.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/c4/1bbceaa2e29c496294cae63582f9ae.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/c4/1bbceaa2e29c496294cae63582f9ae.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cache/dd/1b153531700a76b3774dab3d24ee92.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/dd/1b153531700a76b3774dab3d24ee92.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/e4/7baa0e40d95b10d192d7dced1ccc6a.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/e4/7baa0e40d95b10d192d7dced1ccc6a.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Home/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/HomeHandler.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Home/HomeHandler.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Home/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/home.5ec9dde6.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/home.5ec9dde6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/home.5ec9dde6.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/home.5ec9dde6.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style.e308ff8e.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/style.e308ff8e.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style.e308ff8e.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/style.e308ff8e.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style.e308ff8e.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/style.e308ff8e.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style.e308ff8e.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/style.e308ff8e.js.map" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -43,53 +62,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/Home/Content.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="66" selection-end-column="9" />
+            <state relative-caret-position="153">
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
               <folding>
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h1#0;n#td#1;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#h1#0;n#td#1;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#3;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h3#0;n#td#3;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#h3#0;n#td#3;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#1;n#h3#0;n#td#3;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#h3#0;n#td#3;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#td#0;n#tr#2;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#td#0;n#tr#2;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#td#0;n#tr#2;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#td#0;n#tr#2;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#3;n#div#0;n#td#0;n#tr#2;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#4;n#div#0;n#td#0;n#tr#2;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#td#0;n#tr#3;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#td#0;n#tr#3;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#td#0;n#tr#3;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#2;n#div#0;n#td#0;n#tr#3;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#3;n#div#0;n#td#0;n#tr#3;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#4;n#div#0;n#td#0;n#tr#3;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#0#38#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Home/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="66" selection-start-line="66" selection-end-line="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Home/Header.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="38" selection-start-column="38" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -104,28 +83,46 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Home/Footer.jsx">
+        <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            <state relative-caret-position="153">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Home/NavBar.jsx">
+        <entry file="file://$PROJECT_DIR$/Home/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="66" column="26" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+              <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Home/HomeHandler.jsx">
+        <entry file="file://$PROJECT_DIR$/Home/MenuIcon.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            <state relative-caret-position="85">
+              <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Home/Header.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -134,10 +131,25 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
+        <entry file="file://$PROJECT_DIR$/Home/IconData.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="391">
+              <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+              <folding>
+                <element signature="e#1#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Home/HomeHandler.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -161,11 +173,9 @@
       <list>
         <option value="$PROJECT_DIR$/index.jsx" />
         <option value="$PROJECT_DIR$/NavBar.jsx" />
-        <option value="$PROJECT_DIR$/home.html" />
         <option value="$PROJECT_DIR$/main.jsx" />
         <option value="$PROJECT_DIR$/footer.jsx" />
         <option value="$PROJECT_DIR$/home.jsx" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/supermarket.html" />
         <option value="$PROJECT_DIR$/resultSupermarket.html" />
         <option value="$PROJECT_DIR$/AllCategories.html" />
@@ -174,15 +184,20 @@
         <option value="$PROJECT_DIR$/cart.html" />
         <option value="$PROJECT_DIR$/Home/footer.jsx" />
         <option value="$PROJECT_DIR$/Home/header.jsx" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/Home/navBar.jsx" />
         <option value="$PROJECT_DIR$/Home/home.jsx" />
-        <option value="$PROJECT_DIR$/Home/home.html" />
-        <option value="$PROJECT_DIR$/Home/Header.jsx" />
         <option value="$PROJECT_DIR$/Home/NavBar.jsx" />
-        <option value="$PROJECT_DIR$/Home/HomeHandler.jsx" />
-        <option value="$PROJECT_DIR$/Home/style.css" />
         <option value="$PROJECT_DIR$/Home/Footer.jsx" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Home/Content.jsx" />
+        <option value="$PROJECT_DIR$/Home/HomeHandler.jsx" />
+        <option value="$PROJECT_DIR$/Home/Header.jsx" />
+        <option value="$PROJECT_DIR$/Home/IconData.jsx" />
+        <option value="$PROJECT_DIR$/Home/MenuIcon.jsx" />
+        <option value="$PROJECT_DIR$/Home/style.css" />
+        <option value="$PROJECT_DIR$/Home/home.html" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/home.html" />
       </list>
     </option>
   </component>
@@ -215,11 +230,6 @@
               <item name="TravelToSriLanka" type="462c0819:PsiDirectoryNode" />
               <item name="Home" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="TravelToSriLanka" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TravelToSriLanka" type="462c0819:PsiDirectoryNode" />
-              <item name="Login" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -242,8 +252,8 @@
       <recent name="C:\Users\jaliy\Desktop\AF_Lec\TravelToSriLanka\cart" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\jaliy\Desktop\AF_Lec\TravelToSriLanka\Home" />
       <recent name="C:\Users\jaliy\Desktop\AF_Lec\TravelToSriLanka" />
+      <recent name="C:\Users\jaliy\Desktop\AF_Lec\TravelToSriLanka\Home" />
       <recent name="C:\Users\jaliy\Desktop\AF_Lec\TravelToSriLanka\Images" />
     </key>
   </component>
@@ -273,7 +283,7 @@
       <workItem from="1554968243177" duration="953000" />
       <workItem from="1555128019081" duration="599000" />
       <workItem from="1555134797327" duration="2903000" />
-      <workItem from="1555139738031" duration="7534000" />
+      <workItem from="1555139738031" duration="16413000" />
     </task>
     <task id="LOCAL-00001" summary="Add Home page">
       <created>1554894988798</created>
@@ -286,13 +296,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35500000" />
+    <option name="totallyTimeSpent" value="44379000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1764706" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19431593" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -310,25 +319,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.3295129" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -354,7 +344,6 @@
     <entry file="file://$PROJECT_DIR$/PackageApp.jsx" />
     <entry file="file://$PROJECT_DIR$/HomePackageSelectionList.jsx" />
     <entry file="file://$PROJECT_DIR$/HomePackageDetails.jsx" />
-    <entry file="file://$PROJECT_DIR$/home.html" />
     <entry file="file://$PROJECT_DIR$/cart.js" />
     <entry file="file://$PROJECT_DIR$/cartDetails.js" />
     <entry file="file://$PROJECT_DIR$/cartNav.js" />
@@ -465,13 +454,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Login/LoginJS.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-323">
@@ -490,34 +472,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Home/Footer.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home/NavBar.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Home/home.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/Header.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="38" selection-start-column="38" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <caret line="3" column="19" selection-start-line="3" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="66" selection-end-column="9" />
+        <state relative-caret-position="272">
+          <caret line="107" column="32" lean-forward="true" selection-start-line="107" selection-start-column="32" selection-end-line="107" selection-end-column="32" />
           <folding>
             <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -546,34 +525,78 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Home/NavBar.jsx">
+    <entry file="file://$PROJECT_DIR$/Home/Header.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/HomeHandler.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        <state relative-caret-position="255">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Home/style.css">
+    <entry file="file://$PROJECT_DIR$/Home/Content.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        <state relative-caret-position="153">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Home/Footer.jsx">
+    <entry file="file://$PROJECT_DIR$/Home/HomeHandler.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        <state relative-caret-position="476">
+          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home/MenuIcon.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="66" column="26" selection-start-line="66" selection-start-column="26" selection-end-line="66" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home/IconData.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+          <folding>
+            <element signature="e#1#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
         </state>
       </provider>
     </entry>
