@@ -1,0 +1,77 @@
+
+
+/*NavBar*/
+
+ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #247dbd;
+}
+
+ul.topnav li {float: left;}
+
+ul.topnav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul.topnav li a:hover:not(.active) {background-color: #57b4e4;}
+
+ul.topnav li a.active {background-color: #003543;}
+
+ul.topnav li.right {float: right;}
+
+
+
+/*Header*/
+
+.logo{
+    width: 35%;
+}
+.logo img{
+    width: 30%;
+}
+
+.hedding{
+    width: 30%;
+}
+.hedding img{
+    width: 5%;
+}
+.hedding h1{
+    color:#003543;
+}
+
+.blank{
+    width: 20%;
+}
+
+.login_cart{
+    width: 15%;
+}
+.login_cart h3{
+    font-family: Arial;
+}
+.login_cart a{
+    text-decoration: none;
+    color:#003543;
+}
+.login_cart img{
+    width:20%;
+}
+
+/*Footer*/
+
+.footer {
+    bottom: 0;
+    background-color: #003543;
+    color: white;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    text-align: center;
+}
