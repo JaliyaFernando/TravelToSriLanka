@@ -1,7 +1,8 @@
 import React,{Component} from 'react';
-import Content from "./HomeContent";
+import Content from "./Item_BiscuitsPageContent";
 
-export default class HomeHandler extends Component{
+
+export default class Item_BiscuitsPageHandler extends Component{
     render(){
         return <div>
             <Content/>

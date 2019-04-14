@@ -1,5 +1,9 @@
 import React,{Component} from 'react';
 import { Link } from 'react-router-dom';
+import keells from "./images/keells.png";
+import cargils from "./images/cargils.jpg";
+import arpico from "./images/arpico.jpg";
+import laugfs from "./images/laugfs.jpg";
 
 export default class ResultSupermarketPageContent extends Component {
     render() {
@@ -34,26 +38,28 @@ export default class ResultSupermarketPageContent extends Component {
             </div>
             <div className="wrap2">
                 <form align="center">
-                    <table>
-                        <h1 align="center">SuperMarkets in Anuradhapura</h1>
+                    <h1 align="center">SuperMarkets in Anuradhapura</h1>
+
+                    <table width="100%" align="center">
                         <tr>
-                            <td><a target="_blank" href="AllCategories.html">
-                                <h1><img src="images\keells.png" height="42" width="72"/>
+                            <td width="25%" align="center">
+                                <Link to="/ItemsSelectPage">
+                                    <img src={keells} alt="keells" height="42" width="72"/>
                                     <br/>
                                     <input type="submit" value="Keells"/>
-                                </h1></a>
+                                </Link>
                             </td>
-                            <td>
-                                <h1><img src="images\cargils.jpg" height="42" width="72"/><br/>
+                            <td width="25%" align="center">
+                                <h1><img src={cargils} alt="cargils" height="42" width="72"/><br/>
                                     <input type="submit" value="Cargills"/>
                                 </h1>
                             </td>
-                            <td>
-                                <h1><img src="images\arpico.jpg" height="42" width="72"/><br/><input type="submit" value="Arpico"/>
+                            <td width="25%" align="center">
+                                <h1><img src={arpico} alt="arpico" height="42" width="72"/><br/><input type="submit" value="Arpico"/>
                                 </h1>
                             </td>
-                            <td>
-                                <h1><img src="images\laugfs.jpg" height="42" width="72"/><br/><input type="submit" value="Laugh"/></h1>
+                            <td width="25%" align="center">
+                                <h1><img src={laugfs} alt="laugfs" height="42" width="72"/><br/><input type="submit" value="Laugh"/></h1>
                             </td>
                         </tr>
                     </table>

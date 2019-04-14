@@ -1,7 +1,8 @@
 import React,{Component} from 'react';
-import Content from "./HomeContent";
+import Content from "./S_ItemsSelectPageContent";
 
-export default class HomeHandler extends Component{
+
+export default class S_ItemsSelectPageHandler extends Component{
     render(){
         return <div>
             <Content/>

@@ -1,7 +1,8 @@
 import React,{Component} from 'react';
-import Content from "./HomeContent";
+import Content from "./CartPageContent";
 
-export default class HomeHandler extends Component{
+
+export default class CartPageHandler extends Component{
     render(){
         return <div>
             <Content/>
