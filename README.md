@@ -31,11 +31,16 @@ because the government has given each product and service a fixed price.
 
 
 Our solution provides the tourist with several benefits.
+
  One benefit is that the tourist does not have to waste time to travel to the store.
+
  No hassle in having a lot of money or using credit cards always as all the payments are made by
 the hotel as long as the tourist stays in the hotel. The tourist only has to pay once and that is
 when he/she finally leaves the hotel.
+
  Every tourist is charged with the same price fairly.
+
  You can directly purchase the goods by yourself.
+
  No trouble of changing currency because the goods and services can be purchased with the
 tourist respective country’s currency.
